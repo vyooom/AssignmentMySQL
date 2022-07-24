@@ -1,0 +1,12 @@
+Mysql:
+
+    1. Create a table for attribute & dress dataset.
+    2. Do a bulk load for these two datasets.
+    3. Read these data in pandas as a dataframe
+    4. Convert attribute dataset in Json format
+    5. Store this dataset into MongoDB
+    6. In SQL task try to perform left join operation with attribute dataset and dress dataset on column dress_id
+    7. Write a SQL query to find out how many unique dress we have.
+    8. Try to find out how many dresss is having recommendation as zero
+    9. Try to find out the total dress sales for each dress_id using SQL
+    10. Try to find out third highest most selling dress_id.
