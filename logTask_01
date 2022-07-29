@@ -1,0 +1,13 @@
+INFO 2022-07-25 07:33:57,479 root Q1: Create a table for attribute & dress dataset.
+DEBUG 2022-07-25 07:33:57,732 mysql.connector.connection # _do_auth(): user: root
+DEBUG 2022-07-25 07:33:57,733 mysql.connector.connection # _do_auth(): self._auth_plugin: 
+DEBUG 2022-07-25 07:33:57,733 mysql.connector.connection # _do_auth(): user: root
+DEBUG 2022-07-25 07:33:57,733 mysql.connector.connection # _do_auth(): password: Mysql@894
+DEBUG 2022-07-25 07:33:57,733 mysql.connector.connection new_auth_plugin: caching_sha2_password
+INFO 2022-07-25 07:33:57,736 root []
+INFO 2022-07-25 07:33:58,570 root Empty DataFrame
+Columns: [Dress_ID, Style, Price, Rating, Size, Season, Neckline, SleeveLength, waiseline, Material, FabricType, Decoration, Patterntype, Recommendation]
+Index: []
+INFO 2022-07-25 07:33:58,578 root Empty DataFrame
+Columns: [Dress_ID, 29/8/2013, 31/8/2013, 09-02-2013, 09-04-2013, 09-06-2013, 09-08-2013, 09-10-2013, 09-12-2013, 14/9/2013, 16/9/2013, 18/9/2013, 20/9/2013, 22/9/2013, 24/9/2013, 26/9/2013, 28/9/2013, 30/9/2013, 10-02-2013, 10-04-2013, 10-06-2013, 10-08-2010, 10-10-2013, 10-12-2013]
+Index: []

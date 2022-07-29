@@ -1,0 +1,5 @@
+INFO 2022-07-28 19:31:17,117 root Q5. Store this dataset into MongoDB
+INFO 2022-07-28 19:31:17,757 root Using with open json to read the json file.
+INFO 2022-07-28 19:31:17,767 root Created a database named classAssignment.
+INFO 2022-07-28 19:31:17,767 root Created a file named AttributeJSON in classAssignment database.
+INFO 2022-07-28 19:31:18,775 root Inserted the Attribute data in JSON format in MongoDB.

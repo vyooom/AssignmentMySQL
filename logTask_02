@@ -1,0 +1,9 @@
+INFO 2022-07-27 23:20:01,287 root Q2: Do a bulk load for these two datasets.
+INFO 2022-07-27 23:20:01,592 root Query for the bulk upload of Attribute data.
+INFO 2022-07-27 23:20:01,599 root The bulk data upload of Attribute Dataset completed.
+INFO 2022-07-27 23:20:01,599 root Query for the bulk upload of Dress Sales data.
+INFO 2022-07-27 23:22:25,686 root Q2: Do a bulk load for these two datasets.
+INFO 2022-07-27 23:22:26,075 root Query for the bulk upload of Attribute data.
+INFO 2022-07-27 23:22:26,097 root The bulk data upload of Attribute Dataset completed.
+INFO 2022-07-27 23:22:26,098 root Query for the bulk upload of Dress Sales data.
+INFO 2022-07-27 23:22:26,124 root The bulk data upload of DressSales Dataset completed.

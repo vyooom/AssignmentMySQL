@@ -1,0 +1,3 @@
+INFO 2022-07-28 21:47:24,227 root Q8. Try to find out how many dresss is having recommendation as zero
+INFO 2022-07-28 21:47:24,445 root We executed this command.
+INFO 2022-07-28 21:47:24,446 root select Recommendation, Count(*) from assignment20220724.attribute where Recommendation = 0
